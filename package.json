@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {},
-  "type": "module",
+  "type": "commonjs",
   "keywords": [],
   "author": "",
   "license": "ISC",
